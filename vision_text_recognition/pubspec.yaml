@@ -79,7 +79,7 @@ platforms:
   ios:
 
 # Publishing settings
-publish_to: 'https://pub.dev'
+publish_to: null
 
 # Additional metadata for pub.dev
 topics:
@@ -87,7 +87,4 @@ topics:
   - vision
   - text-recognition
   - ml
-  - apple-vision
-  - mlkit
   - flutter-plugin
-  - computer-vision

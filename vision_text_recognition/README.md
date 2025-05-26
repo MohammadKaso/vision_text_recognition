@@ -381,7 +381,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- 📧 **Email**: your.email@example.com
+
 - 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/vision_text_recognition/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/vision_text_recognition/discussions)
 
