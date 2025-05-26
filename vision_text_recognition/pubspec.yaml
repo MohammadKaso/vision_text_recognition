@@ -1,6 +1,6 @@
 name: vision_text_recognition
 description: A Flutter plugin for advanced text recognition using Apple Vision framework on iOS and Google ML Kit on Android. Provides high-accuracy OCR with confidence scores, bounding boxes, and language detection.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/mohammad/vision_text_recognition
 repository: https://github.com/mohammad/vision_text_recognition
 issue_tracker: https://github.com/mohammad/vision_text_recognition/issues
