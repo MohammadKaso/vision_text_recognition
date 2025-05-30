@@ -373,7 +373,7 @@ try {
 
 ## Contributing
 
-Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) and submit pull requests to our [GitHub repository](https://github.com/your-username/vision_text_recognition).
+Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTING.md) and submit pull requests to our [GitHub repository](https://github.com/MohammadKaso/vision_text_recognition).
 
 ## License
 
@@ -382,8 +382,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Support
 
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/vision_text_recognition/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/vision_text_recognition/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/MohammadKaso/vision_text_recognition/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/MohammadKaso/vision_text_recognition/discussions)
 
 ## Changelog
 
